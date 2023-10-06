@@ -69,5 +69,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to [any libraries, frameworks, or resources you used].
+- Special thanks to Taranjot Singh (our mentor) , Reactjs framework and django and code4cause team
 
