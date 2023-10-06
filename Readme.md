@@ -1,5 +1,4 @@
-# Healthcare Resource Donation Platform
-
+# CareXchange
 ## Overview
 
 This project is a healthcare resource donation platform built with React.js for the front end and Node.js with MongoDB using the Mongoose module for the back end. It connects donors with available free medicines and medical facilities to recipients in need, facilitating efficient resource allocation during critical healthcare situations.
@@ -47,7 +46,7 @@ This project is a healthcare resource donation platform built with React.js for 
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/healthcare-resource-donation.git`
+1. Clone the repository: `git clone https://github.com/divi2806/-CODE-RUN.git`
 
 2. Set up the front-end and back-end environments separately.
 
@@ -59,7 +58,10 @@ To get started with this project, follow these steps:
 
 ## Contributors
 
-- Divyansh Sharma -https://github.com/divi2806
+- Divyansh Sharma - https://github.com/divi2806
+- Aditya Jha - https://github.com/Adityajha42
+- Sambhav Gupta - https://github.com/Supremesambhav
+- Sameer Choudhary - https://github.com/Sameer-choudhary-git
 
 ## License
 
