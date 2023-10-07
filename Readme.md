@@ -27,6 +27,13 @@ This project is a healthcare resource donation platform built with React.js for 
 
 - **Privacy and Security**: Data privacy and security are ensured through encryption and security best practices.
 
+
+## How to Install
+go to the server folder and open it in the terminal and use the command - (node server.js)
+go to client-admin and open it in the terminal and use command - (npm install) to install prerequisites and then (npm run dev)
+go to client-user and open it in the terminal and use the command - (npm install) to install prerequisites and then (npm run dev)
+
+
 ## Tech Stack
 
 - **Front-end**: React.js, HTML5, CSS (or Bootstrap), JavaScript
